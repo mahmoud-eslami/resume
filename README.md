@@ -44,7 +44,7 @@ Tech : `Flutter` `Dart`
 * Learning more about project structures.
 
 
-### [Dropp Technologies Group · Internship](https://codeparser.org/)
+### [Dropp Technologies Group · Internship](https://droppgroup.com/)
 _Nov 2019 - Feb 2020_ \
 Tech : `Flutter` `Dart`
 
