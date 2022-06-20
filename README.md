@@ -14,40 +14,10 @@ I am a mobile developer with 2+ years experience to design and develop iOS and A
 
 ## Projects
 
-| <img src="https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/ketolife/ketoIcon.png" width="100" height="100"> | <img src="https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/code-hub/logo.png" width="100" height="100"> | <img src="https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/barber_app_sc/MOCKUP-1.png" width="100" height="100"> | <img src="https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/meal%20planner/meal-planner-1.png" width="130" height="100"> |
+| <img src="https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/ketolife/ketoIcon.png" width="100" height="100"> | <img src="https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/code-hub/logo.png" width="100" height="100"> | <img src="https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/barber_app_sc/MOCKUP-1.png" width="100" height="100"> | <img src="https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/meal%20planner/logo.png" width="100" height="100"> |
 | :-: | :-: | :-: | :-: |
 | [Ketolife]() | [Codehub]() | [Barber booking]() | [Meal planner]() |
 
-
-<!-- <img src="https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/ketolife/ketoIcon.png" width="100" height="100">
-
-### [Ketolife]()  
-
-Technologies : `Flutter` `Dart`
-
-#
-
-<img src="https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/code-hub/logo.png" width="100" height="100">
-
-### [Code-hub]() 
-
-Technologies : `Flutter` `Dart` `BLoC` `Clean Architecture` `Django` `Python`
-
-#
-
-<img src="https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/barber_app_sc/MOCKUP-1.png" width="100" height="100">
-
-### [Barber Booking]() 
-
-Technologies : `Flutter` `Dart` `Firebase` `Firestone` `Get-x`
-
-#
-
-<img src="https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/meal%20planner/meal-planner-1.png" width="130" height="100">
-
-### [Meal planner]() 
-
-Technologies : `Flutter` `Dart` `Flutter-desktop` -->
 
 ---
 
