@@ -8,7 +8,7 @@
 
 **Mobile Developer**
 
-I am a mobile developer with 2+ years experience to design and develop iOS and Android app using `flutter` Also I enjoy to learn new thing in my free times and currently I am learning `Android / Kotlin` .
+I am a mobile developer with 2+ years of experience designing and developing iOS and Android apps using `flutter`, Also I enjoy learning new things in my free time.
 
 ---
 
@@ -34,7 +34,7 @@ I am a mobile developer with 2+ years experience to design and develop iOS and A
 **Current Tech Stack**:
 * **Languages**: Dart
 * **Tools**: Git, Android Studio, Vs code, Trello
-* **Front-end**: Flutter
+* **Framework**: Flutter
 
 <!-- **Soft Skills**:
 * Fast Learning
