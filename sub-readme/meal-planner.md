@@ -5,7 +5,6 @@
     <p align="center">
     <span>
         <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Version">
-        <img src="https://forthebadge.com/images/badges/open-source.svg">
     </span>
 </p><br>
 
