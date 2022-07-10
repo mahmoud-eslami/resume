@@ -7,6 +7,9 @@
         <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Version">
         <!-- <img src="https://forthebadge.com/images/badges/open-source.svg"> -->
     </span>
+    <p align="center">
+        <a href="https://drive.google.com/file/d/1V7EaechqLvCi9v7Qj8I4BbEUWk_Z4kQ_/view?usp=sharing">Download APK</a>
+    </p>
 </p><br>
 
 # Showcase
