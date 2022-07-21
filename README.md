@@ -18,6 +18,11 @@ I am a mobile developer with 2+ years of experience designing and developing iOS
 | :-: | :-: | :-: | :-: |
 | [Ketolife](https://github.com/mahmoud-eslami/resume/blob/main/sub-readme/ketolife.md) | [Codehub](https://github.com/codehub-ir/codehub-mobile) | [Barber booking](https://github.com/mahmoud-eslami/barber_booking) | [Meal planner](https://github.com/mahmoud-eslami/resume/blob/main/sub-readme/meal-planner.md) |
 
+## Open source
+
+#### [Bottom animation](https://github.com/mahmoud-eslami/bottom_animation)
+* A beautiful and animated bottom navigation. You are free to customize it.
+
 ---
 
 ## Core Skills:
