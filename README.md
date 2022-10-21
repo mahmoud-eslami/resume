@@ -8,7 +8,8 @@
 
 **Mobile Developer**
 
-I am a mobile developer with 2+ years of experience designing and developing iOS and Android apps using `flutter`, Also I enjoy learning new things in my free time.
+Highly motivated mobile application developer with +3 years of experience in 𝐅𝐥𝐮𝐭𝐭𝐞𝐫 and 𝐃𝐚𝐫𝐭 who is deeply passionate about working on 𝐨𝐩𝐞𝐧 𝐬𝐨𝐮𝐫𝐜𝐞 projects and working in a team alongside Others.
+Enthusiastic about learning more about the native platforms of mobile development.
 
 ---
 
