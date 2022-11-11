@@ -42,6 +42,11 @@ Enthusiastic about learning more about the native platforms of mobile developmen
 <img src="https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/meal%20planner/logo.png" width="100" height="100">
 
 
+## Open source
+
+#### [Bottom animation](https://github.com/mahmoud-eslami/bottom_animation)
+* A beautiful and animated bottom navigation. You are free to customize it.
+
 ---
 
 # Core Skills:
