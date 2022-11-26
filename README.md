@@ -2,7 +2,7 @@
 # Mahmoud Eslami
 * [Github](https://github.com/mahmoud-eslami)
 * [Linkedin](https://www.linkedin.com/in/mahmoud-eslami/)
-* mahmoudeslami@hotmail.com
+* eslamimahmoud98@gmail.com
 
 ---
 
@@ -63,7 +63,7 @@ Enthusiastic about learning more about the native platforms of mobile developmen
     1. ##### **State management :** `BLoC`, `flutter_bloc`
     1. ##### **Dependency injection :** `get_it`
     1. ##### **Datbases :** `Sqflite`, `Hive`
-    1. ##### **Utilities :** `Google map`, `Google ads integration`, `flutter_map`, `connectivity`, `intl`, `fl_chart` and `syncfusion_chart` and etc
+    1. ##### **Utilities :** `Google map`, `Google ads integration`, `flutter_map`, `connectivity`, `intl`, `fl_chart`, `syncfusion_chart` and etc
 
     
 
