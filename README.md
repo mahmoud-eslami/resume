@@ -1,4 +1,4 @@
-
+<!-- 
 # Mahmoud Eslami
 * [Github](https://github.com/mahmoud-eslami)
 * [Linkedin](https://www.linkedin.com/in/mahmoud-eslami/)
@@ -87,3 +87,4 @@ Enthusiastic about learning more about the native platforms of mobile developmen
 * English (Professional Working Proficiency)
 * Persian (Native)
 * Deutsch (A2)
+ -->
