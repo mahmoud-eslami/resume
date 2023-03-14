@@ -1,13 +1,10 @@
-const baseUrl = 
-"https://raw.githubusercontent.com/mahmoud-eslami/resume/main";
-var dataset = {
+{
   "projects": [
     {
       "title": "Pmodoro",
       "description":
-          "An application that helps users implement the Pomodoro 
-Technique.",
-      "banner": "$baseUrl/portfolio/pomodoro_banner.png",
+          "An application that helps users implement the Pomodoro Technique.",
+      "banner": "https://raw.githubusercontent.com/mahmoud-eslami/resume/main/portfolio/pomodoro_banner.png",
       "images": [],
       "isOpenSource": true,
       "link": "https://github.com/time-mastery/pmodoro-application",
@@ -17,39 +14,39 @@ Technique.",
         "BloC (state management)",
         "get it (dependency injection)",
         "Sqflite (offline database)"
-      ],
+      ]
     },
     {
       "title": "Ketolife",
       "description": "A keto diet tracking and information app.",
-      "banner": "$baseUrl/portfolio/ketolife_banner.png",
+      "banner": "https://raw.githubusercontent.com/mahmoud-eslami/resume/main/portfolio/ketolife_banner.png",
       "images": [
-        "$baseUrl/images/ketolife/27.png",
-        "$baseUrl/images/ketolife/28.png",
-        "$baseUrl/images/ketolife/20.png",
-        "$baseUrl/images/ketolife/21.png",
-        "$baseUrl/images/ketolife/22.png",
-        "$baseUrl/images/ketolife/16.png",
-        "$baseUrl/images/ketolife/17.png",
-        "$baseUrl/images/ketolife/23.png",
-        "$baseUrl/images/ketolife/24.png",
-        "$baseUrl/images/ketolife/1.png",
-        "$baseUrl/images/ketolife/2.png",
-        "$baseUrl/images/ketolife/3.png",
-        "$baseUrl/images/ketolife/4.png",
-        "$baseUrl/images/ketolife/5.png",
-        "$baseUrl/images/ketolife/6.png",
-        "$baseUrl/images/ketolife/7.png",
-        "$baseUrl/images/ketolife/8.png",
-        "$baseUrl/images/ketolife/9.png",
-        "$baseUrl/images/ketolife/10.png",
-        "$baseUrl/images/ketolife/11.png",
-        "$baseUrl/images/ketolife/12.png",
-        "$baseUrl/images/ketolife/13.png",
-        "$baseUrl/images/ketolife/14.png",
-        "$baseUrl/images/ketolife/15.png",
-        "$baseUrl/images/ketolife/18.png",
-        "$baseUrl/images/ketolife/19.png",
+        "https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/ketolife/27.png",
+        "https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/ketolife/28.png",
+        "https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/ketolife/20.png",
+        "https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/ketolife/21.png",
+        "https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/ketolife/22.png",
+        "https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/ketolife/16.png",
+        "https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/ketolife/17.png",
+        "https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/ketolife/23.png",
+        "https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/ketolife/24.png",
+        "https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/ketolife/1.png",
+        "https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/ketolife/2.png",
+        "https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/ketolife/3.png",
+        "https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/ketolife/4.png",
+        "https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/ketolife/5.png",
+        "https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/ketolife/6.png",
+        "https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/ketolife/7.png",
+        "https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/ketolife/8.png",
+        "https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/ketolife/9.png",
+        "https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/ketolife/10.png",
+        "https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/ketolife/11.png",
+        "https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/ketolife/12.png",
+        "https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/ketolife/13.png",
+        "https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/ketolife/14.png",
+        "https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/ketolife/15.png",
+        "https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/ketolife/18.png",
+        "https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/ketolife/19.png"
       ],
       "isOpenSource": false,
       "link": "https://",
@@ -59,14 +56,13 @@ Technique.",
         "BloC (state management)",
         "get it (dependency injection)",
         "Sqflite (offline database)"
-      ],
+      ]
     },
     {
       "title": "Codehub",
       "description":
-          "CodeHub is a Persian pastebin service that provides all kind of 
-software services completely Free and Open Source.",
-      "banner": "$baseUrl/portfolio/codehub_banner.png",
+          "CodeHub is a Persian pastebin service that provides all kind of software services completely Free and Open Source.",
+      "banner": "https://raw.githubusercontent.com/mahmoud-eslami/resume/main/portfolio/codehub_banner.png",
       "images": [
         
 "https://raw.githubusercontent.com/codehub-ir/codehub-mobile/main/screen-shots/13.png",
@@ -81,7 +77,7 @@ software services completely Free and Open Source.",
         
 "https://raw.githubusercontent.com/codehub-ir/codehub-mobile/main/screen-shots/18.png",
         
-"https://raw.githubusercontent.com/codehub-ir/codehub-mobile/main/screen-shots/19.png",
+"https://raw.githubusercontent.com/codehub-ir/codehub-mobile/main/screen-shots/19.png"
       ],
       "isOpenSource": true,
       "link": "https://github.com/codehub-ir/codehub-mobile/",
@@ -89,15 +85,14 @@ software services completely Free and Open Source.",
         "Flutter",
         "Dart",
         "BloC (state management)",
-        "get it (dependency injection)",
-      ],
+        "get it (dependency injection)"
+      ]
     },
     {
       "title": "Barber booking",
       "description":
-          "A barber shop booking platform using Firebase as the backend 
-service and Flutter as the client technology.",
-      "banner": "$baseUrl/portfolio/barber_banner.png",
+          "A barber shop booking platform using Firebase as the backend service and Flutter as the client technology.",
+      "banner": "https://raw.githubusercontent.com/mahmoud-eslami/resume/main/portfolio/barber_banner.png",
       "images": [
         
 "https://raw.githubusercontent.com/mahmoud-eslami/barber_booking/master/screen_shots/1.png",
@@ -124,7 +119,7 @@ service and Flutter as the client technology.",
         
 "https://raw.githubusercontent.com/mahmoud-eslami/barber_booking/master/screen_shots/12.png",
         
-"https://raw.githubusercontent.com/mahmoud-eslami/barber_booking/master/screen_shots/13.png",
+"https://raw.githubusercontent.com/mahmoud-eslami/barber_booking/master/screen_shots/13.png"
       ],
       "isOpenSource": true,
       "link": "https://github.com/mahmoud-eslami/barber-booking/",
@@ -134,15 +129,14 @@ service and Flutter as the client technology.",
         "Firebase",
         "Firebase Analytics",
         "Firebase Firesotre",
-        "Get-X (state management / dependency injection)",
-      ],
+        "Get-X (state management / dependency injection)"
+      ]
     },
     {
       "title": "Meal planners",
       "description":
-          "A desktop app that helps users find recipes with detailed 
-information.",
-      "banner": "$baseUrl/portfolio/meal_planer.png",
+          "A desktop app that helps users find recipes with detailed information.",
+      "banner": "https://raw.githubusercontent.com/mahmoud-eslami/resume/main/portfolio/meal_planer.png",
       "images": [
         
 "https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/meal%20planner/meal-planner-1.png",
@@ -151,7 +145,7 @@ information.",
         
 "https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/meal%20planner/meal-planner-3.png",
         
-"https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/meal%20planner/meal-planner-4.png",
+"https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/meal%20planner/meal-planner-4.png"
       ],
       "isOpenSource": false,
       "link": "https://",
@@ -159,8 +153,8 @@ information.",
         "Flutter",
         "Flutter-Desktop",
         "Dart",
-        "Get-X (state management / dependency injection)",
-      ],
+        "Get-X (state management / dependency injection)"
+      ]
     }
   ],
   "skills": [
@@ -171,38 +165,38 @@ information.",
         {
           "title": "Flutter",
           "long": false,
-          "image": "$baseUrl/portfolio/fl_logo.png",
+          "image": "https://raw.githubusercontent.com/mahmoud-eslami/resume/main/portfolio/fl_logo.png"
         },
         {
           "title": "Dart",
           "long": false,
-          "image": "$baseUrl/portfolio/dart_logo.png",
+          "image": "https://raw.githubusercontent.com/mahmoud-eslami/resume/main/portfolio/dart_logo.png"
         },
         {
           "title": "BLoC Pattern",
           "long": false,
-          "image": null,
+          "image": null
         },
         {
           "title": "Dio & Http",
           "long": false,
-          "image": null,
+          "image": null
         },
         {
           "title": "i18n & l10n",
           "long": false,
-          "image": null,
+          "image": null
         },
         {
           "title": "Animations",
           "long": false,
-          "image": null,
+          "image": null
         },
         {
           "title": "Asynchronous programming",
           "long": true,
-          "image": null,
-        },
+          "image": null
+        }
       ]
     },
     {
@@ -212,28 +206,28 @@ information.",
         {
           "title": "OOP",
           "long": false,
-          "image": null,
+          "image": null
         },
         {
           "title": "Git",
           "long": false,
-          "image": "$baseUrl/portfolio/git_logo.png",
+          "image": "https://raw.githubusercontent.com/mahmoud-eslami/resume/main/portfolio/git_logo.png"
         },
         {
           "title": "CI / CD",
           "long": false,
-          "image": null,
+          "image": null
         },
         {
           "title": "MVVM",
           "long": false,
-          "image": null,
+          "image": null
         },
         {
           "title": "Github actions",
           "long": false,
-          "image": null,
-        },
+          "image": null
+        }
       ]
     },
     {
@@ -243,13 +237,13 @@ information.",
         {
           "title": "Material Design",
           "long": true,
-          "image": "$baseUrl/portfolio/material_logo.png",
+          "image": "https://raw.githubusercontent.com/mahmoud-eslami/resume/main/portfolio/material_logo.png"
         },
         {
           "title": "Cupertino",
           "long": false,
-          "image": null,
-        },
+          "image": null
+        }
       ]
     },
     {
@@ -259,15 +253,14 @@ information.",
         {
           "title": "Python",
           "long": false,
-          "image": "$baseUrl/portfolio/python_lang_logo.png",
+          "image": "https://raw.githubusercontent.com/mahmoud-eslami/resume/main/portfolio/python_lang_logo.png"
         },
         {
           "title": "Django",
           "long": false,
-          "image": "$baseUrl/portfolio/django_logo.png",
-        },
+          "image": "https://raw.githubusercontent.com/mahmoud-eslami/resume/main/portfolio/django_logo.png"
+        }
       ]
-    },
-  ],
-};
-
+    }
+  ]
+}
