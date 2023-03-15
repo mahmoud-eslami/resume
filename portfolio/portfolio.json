@@ -1,4 +1,5 @@
 {
+  "resume_link":"https://www.google.com",
   "projects": [
     {
       "title": "Pmodoro",
@@ -11,9 +12,12 @@
       "technologies": [
         "Flutter",
         "Dart",
-        "BloC (state management)",
-        "get it (dependency injection)",
-        "Sqflite (offline database)"
+        "BloC",
+        "get it",
+        "Sqflite",
+        "Flutter hooks",
+        "Bloc test",
+        "Unit test"
       ]
     },
     {
@@ -53,9 +57,9 @@
       "technologies": [
         "Flutter",
         "Dart",
-        "BloC (state management)",
-        "get it (dependency injection)",
-        "Sqflite (offline database)"
+        "BloC",
+        "get it",
+        "Sqflite"
       ]
     },
     {
@@ -84,8 +88,8 @@
       "technologies": [
         "Flutter",
         "Dart",
-        "BloC (state management)",
-        "get it (dependency injection)"
+        "BloC",
+        "get it"
       ]
     },
     {
@@ -129,7 +133,7 @@
         "Firebase",
         "Firebase Analytics",
         "Firebase Firesotre",
-        "Get-X (state management / dependency injection)"
+        "Get-X"
       ]
     },
     {
@@ -153,7 +157,7 @@
         "Flutter",
         "Flutter-Desktop",
         "Dart",
-        "Get-X (state management / dependency injection)"
+        "Get-X"
       ]
     }
   ],
