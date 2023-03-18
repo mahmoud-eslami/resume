@@ -267,5 +267,25 @@
         }
       ]
     }
+  ],
+  "experiences": [
+    {
+      "company_name": "Code Parser · Full-time",
+      "role": "Flutter Developer",
+      "date": "Mar 2021 - Oct 2022",
+      "decription": "As a remote Flutter developer with a versatile programming skillset, I contributed to multiple project teams and facilitated efficient communication to deliver high-quality mobile applications."
+    },
+    {
+      "company_name": "Freelance",
+      "role": "Flutter Developer",
+      "date": "Mar 2020 - Mar 2021",
+      "decription": "As a remote Flutter developer with a versatile programming skillset, I contributed to multiple project teams and facilitated efficient communication to deliver high-quality mobile applications."
+    },
+    {
+      "company_name": "Dropp Technologies Group · Internship",
+      "role": "Flutter Developer",
+      "date": "Nov 2019 - Feb 2020",
+      "decription": "As a remote Flutter developer with a versatile programming skillset, I contributed to multiple project teams and facilitated efficient communication to deliver high-quality mobile applications."
+    }
   ]
 }
