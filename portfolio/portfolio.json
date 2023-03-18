@@ -5,18 +5,18 @@
   "socials": [
     {
       "name": "Github",
-      "link": "",
-      "username": ""
+      "link": "https://github.com/mahmoud-eslami",
+      "username": "mahmoud-eslami"
     },
     {
       "name": "Email",
-      "link": "",
-      "username": ""
+      "link": "mahmoudeslami@hotmail.com",
+      "username": "mahmoudeslami@hotmail.com"
     },
     {
       "name": "Stackoverflow",
-      "link": "",
-      "username": ""
+      "link": "https://stackoverflow.com/users/12496048/mahmoud-eslami",
+      "username": "mahmoud-eslami"
     }
   ],
   "projects": [
