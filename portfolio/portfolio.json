@@ -9,14 +9,19 @@
       "username": "mahmoud-eslami"
     },
     {
-      "name": "Email",
-      "link": "mahmoudeslami@hotmail.com",
-      "username": "mahmoudeslami@hotmail.com"
+      "name": "Linkedin",
+      "link": "https://www.linkedin.com/in/mahmoud-eslami/",
+      "username": "mahmoud-eslami"
     },
     {
       "name": "Stackoverflow",
       "link": "https://stackoverflow.com/users/12496048/mahmoud-eslami",
       "username": "mahmoud-eslami"
+    },
+    {
+      "name": "Email",
+      "link": "mahmoudeslami@hotmail.com",
+      "username": "mahmoudeslami@hotmail.com"
     }
   ],
   "projects": [
