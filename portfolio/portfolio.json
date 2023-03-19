@@ -31,7 +31,7 @@
       "banner": "https://raw.githubusercontent.com/mahmoud-eslami/resume/main/portfolio/pomodoro_banner.png",
       "images": [],
       "isOpenSource": true,
-      "link": "pmodoro-landing.vercel.app/",
+      "link": "https://pmodoro-landing.vercel.app/",
       "technologies": [
         "Flutter",
         "Dart",
