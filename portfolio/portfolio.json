@@ -76,7 +76,7 @@
         "https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/ketolife/19.png"
       ],
       "isOpenSource": false,
-      "link": "https://",
+      "link": "https://github.com/mahmoud-eslami/resume/blob/hide-contribute/sub-readme/ketolife.md",
       "technologies": ["Flutter", "Dart", "BloC", "get it", "Sqflite"]
     },
     {
@@ -158,7 +158,7 @@
         "https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/meal%20planner/meal-planner-4.png"
       ],
       "isOpenSource": false,
-      "link": "https://",
+      "link": "https://github.com/mahmoud-eslami/resume/blob/hide-contribute/sub-readme/meal-planner.md",
       "technologies": ["Flutter", "Flutter-Desktop", "Dart", "Get-X"]
     }
   ],
