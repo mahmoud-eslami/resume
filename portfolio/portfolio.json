@@ -1,5 +1,5 @@
 {
-  "main_title": "My name is Mahmoud'Eslami",
+  "main_title": "I'm Mahmoud Eslami",
   "about_me": "A Flutter developer with over three years of experience building cross-platform mobile applications. Strong understanding of mobile development best practices and familiarity with popular libraries and packages. Completed more than five projects and worked with over 50 packages. Enthusiastic about staying up-to-date with the latest industry changes and collaborating with other talented professionals to work with cutting-edge technology.",
   "resume_link": "https://www.google.com",
   "socials": [
@@ -31,7 +31,7 @@
       "banner": "https://raw.githubusercontent.com/mahmoud-eslami/resume/main/portfolio/pomodoro_banner.png",
       "images": [],
       "isOpenSource": true,
-      "link": "https://pmodoro-landing.vercel.app/",
+      "link": "https://www.pmodoro-landing.vercel.app/",
       "technologies": [
         "Flutter",
         "Dart",
