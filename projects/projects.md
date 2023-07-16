@@ -68,3 +68,30 @@ The app is built on the `Flutter` framework using the `Dart` programming languag
     <td><img src="https://github.com/time-mastery/pmodoro-application/assets/57481226/7e41a009-bddd-48d3-8e4d-f8a1cac50a9a"></td>
   </tr>
 </table>
+
+---
+
+<img src="https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/ketolife/ketoIcon.png" width="100" height="100">
+
+### Ketolife
+Do you want to know more about the keto diet? Let's try Ketolife.
+
+#### Technical Details
+
+This app is built on the `Flutter` framework using the `Dart` programming language. It uses the `Bloc` library for state management, `Sqflite` for local database storage, and `Dio` for network requests.
+ 
+#### Features
+* Useful tools to check your health
+* Information about the keto diet
+* Daily and weekly diet plan
+
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/ketolife/23.png"></td>
+    <td><img src="https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/ketolife/26.png"></td>
+    <td><img src="https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/ketolife/7.png"></td>
+    <td><img src="https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/ketolife/13.png"></td>
+    <td><img src="https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/ketolife/18.png"></td>
+    <td><img src="https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/ketolife/21.png"></td>
+  </tr>
+</table>
