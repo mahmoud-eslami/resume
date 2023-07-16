@@ -6,7 +6,6 @@
 The note app helps you stay organized and focused. Highlight important passages in your notes and easily access them later. Review your highlights quickly and easily, and never forget what's important.
 
 #### Technical Details
-
 The app is built on the `Flutter` framework using the `Dart` programming language. State management is handled by the `Riverpod` library, and the local database is provided by the `Isar` library. The app also uses the `Text-to-Speech (TTS)` library to allow users to listen to the content of the app.
  
 #### Features
@@ -77,7 +76,6 @@ The app is built on the `Flutter` framework using the `Dart` programming languag
 Do you want to know more about the keto diet? Let's try Ketolife.
 
 #### Technical Details
-
 This app is built on the `Flutter` framework using the `Dart` programming language. It uses the `Bloc` library for state management, `Sqflite` for local database storage, and `Dio` for network requests.
  
 #### Features
@@ -104,7 +102,6 @@ This app is built on the `Flutter` framework using the `Dart` programming langua
 Codehub is a simple and easy-to-use pastebin mobile application that allows users to store and share text online. With Codehub, you can easily create, share, and access your pastes from anywhere, at any time.
 
 #### Technical Details
-
 This app is built on the `Flutter` framework using the `Dart` programming language. It uses the `Bloc` library for state management and `Dio` for network requests.
  
 #### Features
@@ -124,11 +121,15 @@ This app is built on the `Flutter` framework using the `Dart` programming langua
 </table>
 
 ---
+`NDA`
 
 <img src="https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/meal%20planner/logo.png" width="100" height="100">
 
 ### Meal Planner
 A Desktop app that helps to find recipes with detailed information.
+
+### Employer : 
+[CodeParser](https://www.linkedin.com/company/code-parser/)
 
 <table>
   <tr>
@@ -138,3 +139,26 @@ A Desktop app that helps to find recipes with detailed information.
     <td><img src="https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/meal%20planner/meal-planner-4.png"></td>
   </tr>
 </table>
+
+---
+`NDA`
+
+<img src="https://github.com/mahmoud-eslami/resume/assets/57481226/a5eab1cf-6d60-4036-832c-85aa0168f3a5" width="100" height="50">
+
+### Elms
+A customizable survey app.
+
+### Employer : 
+[CodeParser](https://www.linkedin.com/company/code-parser/)
+
+---
+`NDA`
+
+<img src="https://github.com/mahmoud-eslami/resume/assets/57481226/822f37b1-aa59-4e6c-88a3-8fe1dc900652" width="100" height="100">
+
+### EasySupply
+Market policy application.
+
+### Employer : 
+[CodeParser](https://www.linkedin.com/company/code-parser/)
+
