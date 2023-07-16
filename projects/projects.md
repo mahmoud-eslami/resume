@@ -122,3 +122,19 @@ This app is built on the `Flutter` framework using the `Dart` programming langua
     <td><img src="https://raw.githubusercontent.com/codehub-ir/codehub-mobile/main/screen-shots/19.png"></td>
   </tr>
 </table>
+
+---
+
+<img src="https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/meal%20planner/logo.png" width="100" height="100">
+
+### Meal Planner
+A Desktop app that helps to find recipes with detailed information.
+
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/meal%20planner/meal-planner-1.png"></td>
+    <td><img src="https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/meal%20planner/meal-planner-2.png"></td>
+    <td><img src="https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/meal%20planner/meal-planner-3.png"></td>
+    <td><img src="https://raw.githubusercontent.com/mahmoud-eslami/resume/main/images/meal%20planner/meal-planner-4.png"></td>
+  </tr>
+</table>
